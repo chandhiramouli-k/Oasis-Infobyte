@@ -8,3 +8,4 @@
 
 3 [Random Password Generator](https://github.com/chandhiramouli-k/Oasis-Infobyte/blob/main/Oasis%20infobyte/Random%20password%20generator/random_password_generator.py)
 
+4 [Voice Assistant](https://github.com/chandhiramouli-k/Oasis-Infobyte/blob/main/Oasis%20infobyte/Voice%20Assistant/voice_assistant.py)
