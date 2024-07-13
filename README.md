@@ -12,4 +12,4 @@
 
 5 **Chat Application**
    
-   [client](https://github.com/chandhiramouli-k/Oasis-Infobyte/blob/main/Oasis%20infobyte/Chat%20Application/client.py)
+     [client](https://github.com/chandhiramouli-k/Oasis-Infobyte/blob/main/Oasis%20infobyte/Chat%20Application/client.py)
