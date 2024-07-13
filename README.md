@@ -10,6 +10,5 @@
 
 4 [Voice Assistant](https://github.com/chandhiramouli-k/Oasis-Infobyte/blob/main/Oasis%20infobyte/Voice%20Assistant/voice_assistant.py)
 
-5 Chat Application
-   
+5 **Chat Application**
    -[client](https://github.com/chandhiramouli-k/Oasis-Infobyte/blob/main/Oasis%20infobyte/Chat%20Application/client.py)
